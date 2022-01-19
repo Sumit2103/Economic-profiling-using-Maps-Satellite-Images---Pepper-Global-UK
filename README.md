@@ -2,7 +2,7 @@
 
 Problem Description
 
-Deriving an alternate/secondary source of customer data with customer latitude-longitude as input, from developing countries with India being the main region of focus for Pepper-Global Financial Services using Computer Vision techniques from the Open-Source Maps/satellite images depending on whichever is free and easy to use based on their usage in the past research through extensive literature review. This data could be useful for Pepper in the future for economic profiling of the regions where the clients reside.
+Deriving an alternate/secondary source of customer data with customer postcode as input, from developing countries with India being the main region of focus for Pepper-Global Financial Services using Computer Vision techniques from the Open-Source Maps/satellite images depending on whichever is free and easy to use based on their usage in the past research through extensive literature review. This data could be useful for Pepper in the future for economic profiling of the regions where the clients reside.
 Using existing academic research as inspiration, source proxies for economic indicators and predictors found in successful local economy models in order to create Pepper’s own economic profile in the future.
 
 Background of the project
